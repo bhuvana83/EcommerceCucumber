@@ -1,0 +1,6 @@
+resources\test.class
+pageObjects\loginPage.class
+resources\Base.class
+pageObjects\customerSearch.class
+pageObjects\userPage.class
+pageObjects\addCustomerPage.class

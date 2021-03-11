@@ -1,0 +1,7 @@
+20:05:31.511 [main] INFO  stepDefinitions.stepDefinition - inside launching
+20:05:33.338 [main] INFO  stepDefinitions.stepDefinition - inside login
+20:05:40.838 [main] INFO  stepDefinitions.stepDefinition - inside logout
+20:23:34.244 [main] INFO  stepDefinitions.stepDefinition - inside launching
+20:23:36.069 [main] INFO  stepDefinitions.stepDefinition - inside login
+20:23:54.193 [main] INFO  stepDefinitions.stepDefinition - inside logout
+20:26:48.770 [main] INFO  stepDefinitions.stepDefinition - inside launching
