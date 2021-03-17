@@ -178,6 +178,7 @@ public class stepDefinition extends Base {
 	    
 		//Assert.assertEquals(actual, expected);
 		Assert.assertEquals(cs.searchCustomerByName(arg1, arg2), true);
+		Thread.sleep(2000);
 	}
 
 	
